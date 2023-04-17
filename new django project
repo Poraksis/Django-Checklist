@@ -1,0 +1,8 @@
+# Virtual environment setup
+  python -m venv project-name
+  project-name\Scripts\activate.bat
+  
+  İzole çalışma ortamı kurulduktan sonra aktive edip Django kurulumunu gerçekleştiriyoruz.
+  
+  pip install Django
+ 
