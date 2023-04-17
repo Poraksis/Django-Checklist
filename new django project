@@ -5,4 +5,9 @@
   İzole çalışma ortamı kurulduktan sonra aktive edip Django kurulumunu gerçekleştiriyoruz.
   
   pip install Django
- 
+  
+  django-admin startproject blogproject   diyerek yeni bir django projesi şablonu oluşturuyoruz.
+  
+  cd blogproject
+  
+  Herhangi bir işlem yapmadan önce Custom User modeli tanımlayacağız.
